@@ -15,6 +15,7 @@ class VideoPlayerItem extends StatefulWidget {
 class _VideoPlayerItemState extends State<VideoPlayerItem> {
   late CachedVideoPlayerController videoPlayerController;
   bool isPlay = false;
+  //added
 
 
   @override
